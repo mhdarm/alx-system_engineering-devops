@@ -1,2 +1,2 @@
 #!/bin/bash
-$ ls -1 | ./script.sh
+paste - - | cut -f1
